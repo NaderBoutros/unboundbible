@@ -159,20 +159,18 @@ Window = Fenêtre
 Writing Direction = Direction d'écriture
 Zoom = Zoom 
 
-// @@@TODO
-
 // Localizable strings
 
-Change Font = Change Font 
-Do you want to save the changes? = Do you want to save the changes? 
-Document Name = Document Name 
-Don't Save = Don't Save 
-Failed to save document. = Failed to save document. 
-Later = Later
-Permission denied. = Permission denied. 
-The beta version has expired. = The beta version has expired.
-The document % could not be opened. = The document % could not be opened. 
-Update = Update
-Update to the stable version. = Update to the stable version.
-verses was found = verses was found 
-Your changes will be lost if you don't save them. = Your changes will be lost if you don't save them. 
+Change Font = Changer la police 
+Do you want to save the changes? = Voulez-vous enregistrer les changements ? 
+Document Name = Nom du document 
+Don't Save = Ne pas sauvegarder 
+Failed to save document. = Impossible d'enregistrer le document. 
+Later = Pus tard
+Permission denied. = Permission refusée. 
+The beta version has expired. = La version bêta a expiré.
+The document % could not be opened. = Le document % n'a pas pu être ouvert. 
+Update = Mettre à jour
+Update to the stable version. = Mise à jour vers la version stable.
+verses was found = versets ont été trouvés 
+Your changes will be lost if you don't save them. = Vos modifications seront perdues si vous ne les enregistrez pas. 
