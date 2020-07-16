@@ -117,50 +117,49 @@ You search for % produced no results. = Aucun résultat pour [%].
 For more information, choose Menu > Help, then click «Module Downloads». = Pour plus d'informations, choisissez Menu &gt; Aide, puis cliquez sur «Téléchargements de modules».
 For more information, choose Menu > Help, then click «Unbound Bible Help». = Pour plus d'informations, choisissez Menu &gt; Aide, puis cliquez sur «Aide Unbound Bible».
 
-
-// @@@TODO
-
 [macOS]
 
-About Unbound Bible = About Unbound Bible 
-Align Left = Align Left 
-Align Right = Align Right 
+About Unbound Bible = A propos de Unbound Bible 
+Align Left = Aligner à gaucher 
+Align Right = Aligner à droite 
 Alignment = Alignment 
-Baseline = Baseline 
-Bigger = Bigger 
-Bring All to Front = Bring All to Front 
-Clear Menu = Clear Menu 
-Close = Close 
-Colors… = Colors… 
-Copy Style = Copy Style 
-Default = Default 
-Facebook Page = Facebook Page
-Fonts… = Fonts… 
-Format = Format 
-Hide Others = Hide Others 
-Hide Unbound Bible = Hide Unbound Bible 
-Justify = Justify 
-Left to Right = Left to Right 
-Minimize = Minimize 
-Page Setup… = Page Setup… 
-Paste and Match Style = Paste and Match Style 
-Paste Style = Paste Style 
-Preferences = Preferences 
-Preferences… = Preferences… 
-Quit Unbound Bible = Quit Unbound Bible 
-Redo = Redo 
-Right to Left = Right to Left 
-Search Options = Search Options 
+Baseline = Ligne de base 
+Bigger = Plus grand 
+Bring All to Front = Amener tout à l'avant 
+Clear Menu = Effacer le menu
+Close = Fermer 
+Colors… = Couleurs … 
+Copy Style = Copier le style 
+Default = Défault 
+Facebook Page = Page Facebook 
+Fonts… = Polices … 
+Format = Formatter
+Hide Others = Cacher les autres 
+Hide Unbound Bible = Cacher Unbound Bible 
+Justify = Justifier 
+Left to Right = de gaucher à droite 
+Minimize = Minimiser
+Page Setup… = Configuration de la page … 
+Paste and Match Style = Coller et faire correspondre le style 
+Paste Style = Coller le style 
+Preferences = Préferences 
+Preferences… = Préferences… 
+Quit Unbound Bible = Quitter Unbound Bible 
+Redo = Rétablir 
+Right to Left = De droite à gauche 
+Search Options = Options de recherche 
 Services = Services 
-Show All = Show All 
-Smaller = Smaller 
+Show All = Tout afficher 
+Smaller = Plus petit 
 Strikethrough = Strikethrough 
 Subscript = Subscript 
 Superscript = Superscript 
-Unbound Bible Help = Unbound Bible Help 
-Window = Window 
-Writing Direction = Writing Direction 
+Unbound Bible Help = Aide Unbound Bible 
+Window = Fenêtre 
+Writing Direction = Direction d'écriture
 Zoom = Zoom 
+
+// @@@TODO
 
 // Localizable strings
 
